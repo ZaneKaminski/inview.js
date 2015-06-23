@@ -11,11 +11,14 @@
     "dependencies": {
         "jquery": ">=1.10.2"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ZaneKaminski/inview.js.git"
+     },
     "ignore": [
                "**/.*",
                "node_modules",
                "bower_components",
-               "test",
-               "tests"
+               "typings"
                ]
 }
