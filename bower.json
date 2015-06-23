@@ -6,7 +6,7 @@
                 ],
     "description": "jQuery plugin for determining if elements are in view.",
     "main": "inview.js",
-    "keywords": ["jquery"],
+    "keywords": ["jquery", "inview", "view"],
     "license": "MIT",
     "dependencies": {
         "jquery": ">=1.10.2"
